@@ -1,0 +1,23 @@
+.banner {
+    height: 600px; 
+    object-fit: cover;
+    background-size: cover;
+
+}
+
+.bannerContent {
+    padding-top: 400px;
+    margin-left: 50px;
+}
+
+.title {
+    font-size: 2.5rem;
+}
+
+.desc {
+    width: 45rem;
+    line-height: 1.30;
+    font-size: 1rem;
+    max-width: 450px;
+    height: 80px;
+}
